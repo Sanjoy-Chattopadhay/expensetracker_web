@@ -64,18 +64,18 @@ ExpenseTrackerWeb/
 
 ExpenseTrackerWeb is a web application for managing and tracking your expenses efficiently.
 
-## Build the Project
+### Build the Project
 
 Navigate to the project directory and run:
 
 ```bash
 mvn clean install
 
-## Configure Tomcat
+### Configure Tomcat
 1. Install Apache Tomcat.
 2. Configure Tomcat in your IDE or as a standalone server.
 3. Deploy the ExpenseTrackerWeb.war file to Tomcat.
-## Setup Database
+### Setup Database
 1. Create a SQL Server database.
 2. Run the SQL scripts provided in the db folder to set up the tables.
 3. Run the Application
