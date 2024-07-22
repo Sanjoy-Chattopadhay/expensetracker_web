@@ -1,6 +1,6 @@
 # Expense Tracker Web Application
 
-![Expense Tracker]() <!-- Replace with your project image -->
+
 
 ## Overview
 
